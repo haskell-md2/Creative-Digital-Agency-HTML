@@ -3,7 +3,7 @@ body{
 }
 
 .intro{
-    background: url("https://github.com/haskell-md2/Creative-Digital-Agency-HTML/blob/main/img/intro.jpg")  no-repeat;
+    background: url("https://raw.githubusercontent.com/haskell-md2/Creative-Digital-Agency-HTML/main/img/intro.jpg")  no-repeat;
     background-size: cover;
     height: 100vh;
     display: flex;
