@@ -3,7 +3,7 @@ body{
 }
 
 .intro{
-    background: url("https://raw.githubusercontent.com/haskell-md2/Creative-Digital-Agency-HTML/main/img/intro.jpg")  no-repeat;
+    background: url("intro.jpg")  no-repeat;
     background-size: cover;
     height: 100vh;
     display: flex;
@@ -56,7 +56,7 @@ header a{
 }
 
 .frame_one{
-    background: url("https://github.com/haskell-md2/Creative-Digital-Agency-HTML/blob/main/img/img/frame2.png") center;
+    background: url("frame2.png") center;
     background-size: cover;
     min-height: 80vh;
 
